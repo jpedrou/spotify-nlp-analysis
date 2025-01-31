@@ -5,7 +5,7 @@
 
 Project created with the aim of analyzing song lyrics with the help of Spotify API and Natural Language Processing algorithms.
 
-## Tecnologies
+## Technologies
 
 - Python
 -  NLTK
